@@ -1,0 +1,14 @@
+{
+  "name": "proz-talento-cloud-desenvolvimento-5",
+  "version": "1.0.0",
+  "description": "função calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Paulo Carriço",
+  "license": "ISC",
+  "dependencies": {
+    "prompts": "^2.4.2"
+  }
+}
